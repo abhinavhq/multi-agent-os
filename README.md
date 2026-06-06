@@ -191,3 +191,9 @@ If you like this project:
 ## 👨‍💻 Author
 
 Built with ❤️ by AbhinavHQ
+
+---
+
+## 👨‍💻 Author
+
+Built with ❤️ by AbhinavHQ
