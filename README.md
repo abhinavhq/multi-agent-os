@@ -186,14 +186,4 @@ If you like this project:
 - Share it with others
 - Contribute to improve it
 
----
 
-## 👨‍💻 Author
-
-Built with ❤️ by AbhinavHQ
-
----
-
-## 👨‍💻 Author
-
-Built with ❤️ by AbhinavHQ
